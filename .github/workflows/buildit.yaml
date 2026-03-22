@@ -27,4 +27,4 @@ jobs:
       with:
         name: cslol-patcher
         path: cslol-patcher.zip
-        retention-days: 1500
+        retention-days: 15
